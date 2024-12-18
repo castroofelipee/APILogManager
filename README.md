@@ -1,1 +1,3 @@
 # APILogManager
+
+Project build in Django and this project is in progress... 
